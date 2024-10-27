@@ -1,0 +1,12 @@
+.custom-font {
+    font-family: 'Bangers', sans-serif;
+    color:chartreuse;
+  }
+  .custom-font-bold {
+    font-family: 'Mogra', sans-serif;
+    font-weight: 700;
+  }
+
+.header {
+  background-color: aquamarine;
+}
